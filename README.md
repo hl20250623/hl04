@@ -43,7 +43,7 @@
 
 点击访问：<a href="https://hls-17.pages.dev/">51黑料社</a>
 
-<a href="https://91chiguazhongxin.pages.dev/">91吃瓜</a>
+点击访问：<a href="https://91chiguazhongxin.pages.dev/">91吃瓜</a>
 
 主要内容：
 
@@ -62,4 +62,5 @@ Telegram频道传送门：汇集各类热门Telegram频道入口，涵盖资讯�
 社会影响：
 
 黑料大事记详细梳理娱乐圈与网红界的重要爆料事件，从爆发到发酵，时间线清晰，内容真实。它不仅记录每一次舆论风暴的起点，也让吃瓜群众轻松回顾往年大瓜，是了解圈内内幕的绝佳工具。
-[Canonical link](https://github.com/hl20250623/hl04）
+
+[Canonical link]( https://github.com/hl20250623/hl04 ）
